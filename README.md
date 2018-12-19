@@ -1,0 +1,2 @@
+# golang-composite-literals
+Examples
